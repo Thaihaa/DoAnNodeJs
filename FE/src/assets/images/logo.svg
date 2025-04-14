@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80">
+  <circle cx="40" cy="40" r="25" fill="#d32f2f" />
+  <text x="75" y="45" font-family="Arial" font-size="24" font-weight="bold" fill="#d32f2f">MANWAH</text>
+  <text x="75" y="60" font-family="Arial" font-size="12" fill="#d32f2f">TAIWANESE HOTPOT</text>
+</svg> 
